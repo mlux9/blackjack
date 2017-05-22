@@ -1,4 +1,4 @@
 # blackjack
-Simple blackjack game
+Simple blackjack game in Python.
 
-Finished on 7/8/16.
+Done in August 2016.
